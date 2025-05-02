@@ -15,28 +15,28 @@ Entre los proyectos escolares que he podido realizar se encuentran los siguiente
 
 ### Programación
 
-- **Simulación de un juego de UNO**  
+- **Simulación de un juego de UNO**
   Proyecto para la asignatura *Programación Orientada a Objetos*. Juego a nivel terminal. Hecho en **C#**.
 
-- **Calculadora de unidades**  
+- **Calculadora de unidades** 
   Proyecto para la asignatura *Física*. Programa realizado en **C++**.
 
-- **Simulación de un mercado**  
+- **Simulación de un mercado** 
   Proyecto para la asignatura *Programación Orientada a Objetos*. Simulación a nivel terminal. Hecho en **Java**.
 
-- **Dispensador de alimentos para gatos**  
+- **Dispensador de alimentos para gatos** 
   Proyecto para la asignatura *Sistemas Operativos*. Incluye interfaz gráfica. Hecho en **Python**.
 
-- **Juego Pong**  
+- **Juego Pong** 
   Proyecto para la asignatura *Estructura y Programación de Computadoras*. Hecho en **Ensamblador x86**.
 
-- **Proyectos sobre FPGA**  
+- **Proyectos sobre FPGA** 
   Programados en **VHDL** para las asignaturas *Diseño Digital Moderno* y *Diseño Digital VLSI*.
 
-- **Analizador léxico**  
+- **Analizador léxico** 
   Programado en **Hare** (lenguaje basado en Go) para la asignatura *Compiladores*.
 
-- **Programas para estudiar japonés**  
+- **Programas para estudiar japonés** 
   Programas en **C#** y **Python** para practicar estructuras de datos y vocabulario en idioma japonés.
 
 ---
@@ -47,40 +47,40 @@ Desde niño he estado en constante conexión con el mundo de la música. Pude cu
 
 ### Instrumentista
 
-- **Método de Fernando Carulli**  
+- **Método de Fernando Carulli** 
   Completé 18 ejercicios.
 
-- **Piezas de gran dificultad**  
-  Completé 4 piezas de gran dificultad en guitarra:  
+- **Piezas de gran dificultad** 
+  Completé 4 piezas de gran dificultad en guitarra: 
   *Capricho Árabe* (Tárrega), *Agua e Vinho* (Gismonti), *Tarantella* (Johan Gaspar), *Los Canarios* (Sanz).
 
-- **Piezas en orquesta de guitarras**  
+- **Piezas en orquesta de guitarras** 
   Toqué varias piezas para orquesta de guitarras, entre ellas: *La Llorona*, *La Bruja*, *Tierra Mestiza*, *Palladio* y piezas infantiles.
 
 ### Composición
 
-- **Piezas en modos antiguos**  
+- **Piezas en modos antiguos** 
   Composiciones en modos frigio, lidio, eólico, entre otros.
 
-- **Piezas mezclando modos**  
+- **Piezas mezclando modos** 
   Composición en fa# dórico mezclado con escala pentatónica.
 
-- **Suite Romántica para piano**  
+- **Suite Romántica para piano** 
   Cuatro piezas que emplean ritmos del período romántico.
 
-- **Suite Romántica para múltiples instrumentos**  
+- **Suite Romántica para múltiples instrumentos** 
   Similar a la suite para piano, pero escrita para violonchelo y vibráfono.
 
-- **Suite Barroca para piano**  
+- **Suite Barroca para piano** 
   Incluye distintas danzas antiguas.
 
-- **Suite Barroca para múltiples instrumentos**  
+- **Suite Barroca para múltiples instrumentos** 
   Danzas compuestas para violonchelo y flauta.
 
-- **Transcripción de música de bandas de guerra**  
+- **Transcripción de música de bandas de guerra** 
   *Erikka*, *Säkkijärven Polkka*, *Katyusha*, y otras piezas transcritas para guitarra.
 
-- **Arreglos de música de Madoka Magica**  
+- **Arreglos de música de Madoka Magica** 
   Arreglos de *The Imaginator*, *Decretum* y otras canciones de la banda sonora de *Madoka Magica* 💖
 
 ---
