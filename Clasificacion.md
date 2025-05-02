@@ -14,12 +14,19 @@ Me gusta mucho cuando lleva **mucho queso** e ingredientes ricos, como peperoni,
 - Napoli Pizza 
 - Domino's 
 - El Perro Negro 
-![Pizza Estilo chicago](pizza.jpeg)
+
+<p align="center">
+  <img src="pizza.jpeg" alt="Pizza Estilo Chicago" width="300"/>
+</p>
 ---
 
 ## 2. 🌽 Nachos
 
 Fui casi a diario durante un año a Six Flags solo por los nachos con **Icee**. El queso y la carne sabían muy bien con la tostada.
+
+<p align="center">
+  <img src="nachos.jpeg" alt="Nachos" width="300"/>
+</p>
 
 **Mejores lugares:**
 
@@ -61,7 +68,7 @@ Ya sean fritas o normales, el queso debe saber **a queso** y **no tener tanta gr
 
 **Variantes favoritas:**
 
-- Con solo queso 
+- Con queso 
 - Con queso y chicharrón 
 - Con queso y tinga de pollo 
 - Con queso y papa 

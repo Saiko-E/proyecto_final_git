@@ -39,6 +39,11 @@ Entre los proyectos escolares que he podido realizar se encuentran los siguiente
 - **Programas para estudiar japonés** 
   Programas en **C#** y **Python** para practicar estructuras de datos y vocabulario en idioma japonés.
 
+<p align="center">
+  <img src="cs.png" alt="Logo C#" width="300"/>
+</p>
+
+
 ---
 
 ## Proyectos musicales
@@ -54,7 +59,7 @@ Desde niño he estado en constante conexión con el mundo de la música. Pude cu
   Completé 4 piezas de gran dificultad en guitarra: 
   - [*Capricho Árabe* – Tárrega](https://youtu.be/6uJP3gH8SwY?si=6L3dI59aISI2-SQL) 
   - [*Agua e Vinho* – Gismonti](https://youtu.be/vMRbGQCrQlM?si=oA9ISlFPSWfiDOwf) 
-  - [*Tarantella* – Johan Gaspar](https://youtu.be/RjSvY-RvIUY?si=mKlpX4iX_yPJOojW) 
+  - [*Tarantella* – Johan Kaspar](https://youtu.be/RjSvY-RvIUY?si=mKlpX4iX_yPJOojW) 
   - [*Los Canarios* – Sanz](https://youtu.be/cp-JTGMMdsI?si=1IY_oQUF3--TwKYu)
 
 - **Piezas en orquesta de guitarras** 
@@ -88,5 +93,9 @@ Desde niño he estado en constante conexión con el mundo de la música. Pude cu
   - [*The Imaginator*](https://youtu.be/6epKRQgt98Q?si=wzP0iqPhx9h9d39_) 
   - [*Decretum*](https://youtu.be/XeMVu1OYYps?si=wQP3HHmnE45iYjDi) 
   - y otras canciones usadas para la banda sonora de *Madoka Magica* 💖
+
+<p align="center">
+  <img src="madoka.jpg" alt="Imagen sumamante epica" width="300"/>
+</p>
 
 ---
