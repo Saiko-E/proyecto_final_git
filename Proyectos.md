@@ -1,41 +1,87 @@
-#PROYECTOS REALIZADOS
-En el presente archivo markdown enlistarelos proyectos más importantes que he realizado
+# PROYECTOS REALIZADOS
 
-##Proyectos escolares:
+En el presente archivo Markdown enlistaré los proyectos más importantes que he realizado.
+
+---
+
+## Proyectos escolares
 
 Entre los proyectos escolares que he podido realizar se encuentran los siguientes:
 
--Bases de datos
---Elaboracion de una base de datos para una aplicación de viajes.
---Recuperación de archivos password sobre bases de datos tipo oracle
+### Bases de datos
 
--Programación
---Simulación de un juego de UNO. Proyecto para la asignatura programación orientada a objetos. Juego a nivel terminal. C#.
---Calculadora de unidades. Proyecto para la asignatura Física. Programa realizado en c++.
---Simulación de un mercado. Proyecto para la asignatura programación orientada a objetos. Simulación a nivel terminal. Java.
---Dispensador de alimentos para gatos. Proyecto para la asignatur Sistemas Operativos. Incluye interfaz grafica y fue hecho en python.
---Juego Ponj. Proyecto para la asignatura Estructura y programación de computadoras, hecho en ensamblador x86
---Proyectos sobre FPGA . Programados en VHDL para las asignaturas Diseño Digital Moderno y Diseño Digital VLSI
---Analizador lexico. Analizador lexico programado en lenguaje Hare(basado en Go) para la asignatura compiladores
---Programas para estudiar idioma Japones. Programas en c# y en python para practicas estructuras de datos y vocabulario en idioma japones.
+- Elaboración de una base de datos para una aplicación de viajes.
+- Recuperación de archivos password sobre bases de datos tipo Oracle.
 
+### Programación
 
+- **Simulación de un juego de UNO**  
+  Proyecto para la asignatura *Programación Orientada a Objetos*. Juego a nivel terminal. Hecho en **C#**.
 
-##Proyectos Musicales
-Desde niño he estado en contante conexión con el mundo de la música. Pude cursar 5 semestres en la facultad de música de la UNAM y 7 años en la escuela de inciación a la música
-y a la danza del centro cultural ollin yoliztli
+- **Calculadora de unidades**  
+  Proyecto para la asignatura *Física*. Programa realizado en **C++**.
 
--Instrumentista
---Metodo de Fernando Carulli. Complete 18 ejercicios
---Piezas de gran dificultad. Complete 4 piezas Se gran dificultad en guitarra. Capricho Arabe~Tarrega, Agua e vino~ Gizzmonti, Tarantella~Johan Gaspar, Los canarios~Sanz
---Piezas en orquesta de guitarra. Toque varias piezas para orquesta de guitarras, entre ellas la llorana, la bruja, tierra mestiza, palladio y piezas infantiles
+- **Simulación de un mercado**  
+  Proyecto para la asignatura *Programación Orientada a Objetos*. Simulación a nivel terminal. Hecho en **Java**.
 
--Composición
---Piezas en modos antigüos. Compuse piezas de música clasica en modos frigio, litio, eolico, etc..
---Piezas mezclando modos. Hice una composición mezclando fa# dorico y una escala pentatonica
---Suite Romantica para piano. Cuatro piezas para piano en las cuales se tocan ritmos del perido romantico
---Suite Romantica para multiples instrumentos. Similar a la de piano, pero para violoncello y vibrafono
---Suite Barroca para piano. En esta suite elabore distintas danzas antiguas
---Suite Barroca para multiples instrumentos. Mismo caso, pero danzas para violocello y flauta
---Trasncripción música de bandas de guerra. Erikka, Säkkijärven polkka, katyusha y otras cuantas para guitarra
---Arreglo música de Madoka Magica. The imaginator, decretum y demas canciones usadas para la banda sonora de madoka magica <3
+- **Dispensador de alimentos para gatos**  
+  Proyecto para la asignatura *Sistemas Operativos*. Incluye interfaz gráfica. Hecho en **Python**.
+
+- **Juego Pong**  
+  Proyecto para la asignatura *Estructura y Programación de Computadoras*. Hecho en **Ensamblador x86**.
+
+- **Proyectos sobre FPGA**  
+  Programados en **VHDL** para las asignaturas *Diseño Digital Moderno* y *Diseño Digital VLSI*.
+
+- **Analizador léxico**  
+  Programado en **Hare** (lenguaje basado en Go) para la asignatura *Compiladores*.
+
+- **Programas para estudiar japonés**  
+  Programas en **C#** y **Python** para practicar estructuras de datos y vocabulario en idioma japonés.
+
+---
+
+## Proyectos musicales
+
+Desde niño he estado en constante conexión con el mundo de la música. Pude cursar cinco semestres en la Facultad de Música de la UNAM y siete años en la Escuela de Iniciación a la Música y la Danza del Centro Cultural Ollin Yoliztli.
+
+### Instrumentista
+
+- **Método de Fernando Carulli**  
+  Completé 18 ejercicios.
+
+- **Piezas de gran dificultad**  
+  Completé 4 piezas de gran dificultad en guitarra:  
+  *Capricho Árabe* (Tárrega), *Agua e Vinho* (Gismonti), *Tarantella* (Johan Gaspar), *Los Canarios* (Sanz).
+
+- **Piezas en orquesta de guitarras**  
+  Toqué varias piezas para orquesta de guitarras, entre ellas: *La Llorona*, *La Bruja*, *Tierra Mestiza*, *Palladio* y piezas infantiles.
+
+### Composición
+
+- **Piezas en modos antiguos**  
+  Composiciones en modos frigio, lidio, eólico, entre otros.
+
+- **Piezas mezclando modos**  
+  Composición en fa# dórico mezclado con escala pentatónica.
+
+- **Suite Romántica para piano**  
+  Cuatro piezas que emplean ritmos del período romántico.
+
+- **Suite Romántica para múltiples instrumentos**  
+  Similar a la suite para piano, pero escrita para violonchelo y vibráfono.
+
+- **Suite Barroca para piano**  
+  Incluye distintas danzas antiguas.
+
+- **Suite Barroca para múltiples instrumentos**  
+  Danzas compuestas para violonchelo y flauta.
+
+- **Transcripción de música de bandas de guerra**  
+  *Erikka*, *Säkkijärven Polkka*, *Katyusha*, y otras piezas transcritas para guitarra.
+
+- **Arreglos de música de Madoka Magica**  
+  Arreglos de *The Imaginator*, *Decretum* y otras canciones de la banda sonora de *Madoka Magica* 💖
+
+---
+
