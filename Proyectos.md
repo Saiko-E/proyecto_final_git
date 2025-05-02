@@ -16,3 +16,18 @@ Entre los proyectos escolares que he podido realizar se encuentran los siguiente
  --Analizador lexico. Analizador lexico programado en lenguaje Hare(basado en Go) para la asignatura compiladores
  --Programas para estudiar idioma Japones. Programas en c# y en python para practicas estructuras de datos y vocabulario en idioma japones.
 
+##Proyectos Musicales
+-Instrumentista
+ --Metodo de Fernando Carulli
+ --Piezas de gran dificultad
+ --Piezas en orquesta de guitarra
+-Composición
+ --Piezas en modos antiguos
+ --Piezas mezclando modos
+ --Suite Romantica para piano
+ --Suite Romantica para multiples instrumentos
+ --Suite Barroca para piano
+ --Suite Barroca para multiples instrumentos
+ --Transcripción música de bandas de guerra
+ --Arreglo Musica de Madoka Magica
+
