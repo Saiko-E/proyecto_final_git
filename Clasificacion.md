@@ -14,7 +14,7 @@ Me gusta mucho cuando lleva **mucho queso** e ingredientes ricos, como peperoni,
 - Napoli Pizza 
 - Domino's 
 - El Perro Negro 
-
+![Pizza Estilo chicago](pizza.jpeg)
 ---
 
 ## 2. 🌽 Nachos

@@ -15,7 +15,7 @@ Entre los proyectos escolares que he podido realizar se encuentran los siguiente
 
 ### Programación
 
-- **Simulación de un juego de UNO**
+- **Simulación de un juego de UNO** 
   Proyecto para la asignatura *Programación Orientada a Objetos*. Juego a nivel terminal. Hecho en **C#**.
 
 - **Calculadora de unidades** 
@@ -52,7 +52,10 @@ Desde niño he estado en constante conexión con el mundo de la música. Pude cu
 
 - **Piezas de gran dificultad** 
   Completé 4 piezas de gran dificultad en guitarra: 
-  *Capricho Árabe* (Tárrega), *Agua e Vinho* (Gismonti), *Tarantella* (Johan Gaspar), *Los Canarios* (Sanz).
+  - [*Capricho Árabe* – Tárrega](https://youtu.be/6uJP3gH8SwY?si=6L3dI59aISI2-SQL) 
+  - [*Agua e Vinho* – Gismonti](https://youtu.be/vMRbGQCrQlM?si=oA9ISlFPSWfiDOwf) 
+  - [*Tarantella* – Johan Gaspar](https://youtu.be/RjSvY-RvIUY?si=mKlpX4iX_yPJOojW) 
+  - [*Los Canarios* – Sanz](https://youtu.be/cp-JTGMMdsI?si=1IY_oQUF3--TwKYu)
 
 - **Piezas en orquesta de guitarras** 
   Toqué varias piezas para orquesta de guitarras, entre ellas: *La Llorona*, *La Bruja*, *Tierra Mestiza*, *Palladio* y piezas infantiles.
@@ -81,7 +84,9 @@ Desde niño he estado en constante conexión con el mundo de la música. Pude cu
   *Erikka*, *Säkkijärven Polkka*, *Katyusha*, y otras piezas transcritas para guitarra.
 
 - **Arreglos de música de Madoka Magica** 
-  Arreglos de *The Imaginator*, *Decretum* y otras canciones de la banda sonora de *Madoka Magica* 💖
+  Arreglos de: 
+  - [*The Imaginator*](https://youtu.be/6epKRQgt98Q?si=wzP0iqPhx9h9d39_) 
+  - [*Decretum*](https://youtu.be/XeMVu1OYYps?si=wQP3HHmnE45iYjDi) 
+  - y otras canciones usadas para la banda sonora de *Madoka Magica* 💖
 
 ---
-
