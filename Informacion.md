@@ -34,3 +34,20 @@ Idiomas:
 
 - Japones
 -- Tengo aproximadamente año y medio estudiando el idoma. Puedo comunicar cosas basicas.
+
+Metas:
+Mi meta mas importante es poder sacar adelante a mi familia. Pese a que nunca he estado en un estado economico malo, muchas oportunidades se me han cerrado por razones de poder adquisitivo. Mi familia se ha esforzado en poder lograr
+algo dentro de sus ramas y yo no quiero quedar atras. Con eso en mente y mis capacidades, me gustaria consegir un puesto alto en alguna empresa de ciencias de datos o que se dedique a al manejo de datos.
+Por otra parte, mi sueño desde pequeño siempre fue ser un gran artista, y no grande por se precisamente conocido, si no que quien escuche mi música pueda disfrutar o reflexionar sobre su vida. por lo que me encantaria
+componer esas piezas que tanto tiempo han sonado en mi cabeza.
+
+Hobbies:
+- MUSICA (emoji de fuego)
+Soy muy apacionado a la musica, siempre me ha gustado escuchar las prouestas que tiene la gente. Como tal escucho un poco de todo, pero por lo mismo de que he estudiado musica escucho mucha musica clasica, genero que
+en cierto punto llega a ser hambiguo. Me gusta mucho la musica mexicana, creo que es muy bella en todo aspecto y que no solo requiere de talento, si no de pasión. Me gusta mucho el trap, podria decir que desde pequeño vi la
+creacion y popularizaion del genero, que en un principio era visto como un genero bastante curioso. Rap, creo que este genero es muy libre y expresivo, a mi punto de vista, es lo mas cercano a la musica clasica, pues gan parte del materi>
+proviene de la impovización, dentimientos de tristeza y ego.
+
+- Deporte
+Me gusta much hacer ejercicio, me gusta salir a correr, jugar en retas de fut o basket y voy constantemnte al gimnasio soy un poco ansioso por lo que esto me relaja y me da basante paz. De igual forma me gusta verlo, en particular
+me gusta la Formula 1 y las MMA(ufc). En algun futuro me gustaria entrar a boxear y completar algun maraton.
