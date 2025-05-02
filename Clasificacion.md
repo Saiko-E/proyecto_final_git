@@ -82,3 +82,6 @@ Ya sean fritas o normales, el queso debe saber **a queso** y **no tener tanta gr
 - Sushi. Sushito
 - Gomitas. De magito
 - Mango. Ataulfo
+
+---
+Hola, soy **Giselle**, yo agregaría a la lista el pozole rojo. 😄👌
