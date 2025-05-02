@@ -21,3 +21,16 @@ Entre las distintos lenguajes de programación que manejo y he uitilizado para p
 --- Frontend y backend
 - SQL/PLS
 -- Probablemente en donde tengo mejores conocimientos, en lo personal me gusta mucho. Se hacer bloques dinamicos y consultas con subconsultas. De igual manera comprendo el uso de lops diferentes tipos de Joins y de las ndistintas notacio>
+
+Extras:
+- ensambaldor. He utilizado el x86 para proyectos exolares
+- C#. En lo personal me gusta mucho, cuando realizo un proyecto en algun lenguaje procuro rehacerlo pero en c#. Me gusta mucho por el apartado de herramientas .net
+- R. He realizado cursos en donde lo requeri usar
+
+Idiomas:
+- Ingles
+-- Desde pequeño he estado vinculado al idioma, en algunas ocaciones por ver shows que no se encotraban en español, en videojuegos o en instructivos de cosas que tenia que utilizar.
+-- Actulamete me encuentroe en la Enallt para liberar el idioma, pero el objetivo es poder obtneer una certificación del idioma. Concidero que tenfo un nivel avanzado.
+
+- Japones
+-- Tengo aproximadamente año y medio estudiando el idoma. Puedo comunicar cosas basicas.
