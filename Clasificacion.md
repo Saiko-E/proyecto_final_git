@@ -69,9 +69,9 @@ Ya sean fritas o normales, el queso debe saber **a queso** y **no tener tanta gr
 ---
 
 ## Menciones Honorificas:
-- Enfrijoladas
-- Churros
-- Tortas
-- Sushi
-- Gomitas
-- Mango
+- Enfrijoladas. En casa
+- Churros. Coyoacan
+- Tortas. Metro Universidad
+- Sushi. Sushito
+- Gomitas. De magito
+- Mango. Ataulfo
