@@ -87,3 +87,4 @@ Ya sean fritas o normales, el queso debe saber **a queso** y **no tener tanta gr
 1. Holis, soy **Jair** y a mí también me gustan mucho las hamburguesas de Burger King. Mi juego favorito de Six Flags es el Superman. ¡Saludos!
 2. Buenas, aqui **Crizzz**¨. Si quieres un lugar de hamburguesas baratas y muy buenas, hay un restaurante de hamburguesas de pollo llamadas Barrio Chicken (o algo asi jej) muy buenas. Saludosss!
 3. **Vale**:concuerdo las gorditas si se merecen estar en el top de comida.Te recomiendo unas de suadero en Huaraches Los Portales
+4. Hola soy **Frida** esta es mi aportacion al archivo.
