@@ -82,3 +82,6 @@ Ya sean fritas o normales, el queso debe saber **a queso** y **no tener tanta gr
 - Sushi. Sushito
 - Gomitas. De magito
 - Mango. Ataulfo
+
+## Notas
+1. Holis, soy **Jair** y a mí también me gustan mucho las hamburguesas de Burger King. Mi juego favorito de Six Flags es el Superman. ¡Saludos!
